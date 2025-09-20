@@ -12,8 +12,8 @@ int main()
 	double z2;
 	z2 = tan(3 * a);
 
-	cout << z1 << endl;
-	cout << z2 << endl;
+	cout << "Z1 equals = " << z1 << endl;
+	cout << "Z2 equals = "<< z2 << endl;
 
 	return 0;
 }
